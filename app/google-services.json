@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "27404649856",
+    "project_id": "organize-cf457",
+    "storage_bucket": "organize-cf457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27404649856:android:66fdfb338935f0d679ad65",
+        "android_client_info": {
+          "package_name": "com.example.organize_despesas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27404649856-78h4mg7relt79lb7rc70frevts7p5lm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.organize_despesas",
+            "certificate_hash": "214de6171c22167b009d2e69a283e3cb75e4084c"
+          }
+        },
+        {
+          "client_id": "27404649856-au98ffn9et62d3qco1m5qlqm25l52ajg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqKuKicn8JN423i58fqrmfehe5lFZd0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27404649856-au98ffn9et62d3qco1m5qlqm25l52ajg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
